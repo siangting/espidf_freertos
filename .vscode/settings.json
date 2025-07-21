@@ -1,0 +1,7 @@
+{
+    "idf.pythonInstallPath": "/home/siangting/anaconda3/bin/python",
+    "files.associations": {
+        "esp_log.h": "c",
+        "sdkconfig.h": "c"
+    }
+}

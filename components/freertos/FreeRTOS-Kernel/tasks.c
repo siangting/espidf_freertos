@@ -30,7 +30,6 @@
  *
  */
 
-#error "Using CUSTOM FreeRTOS from components/freertos"
 
 /* Standard includes. */
 #include <stdlib.h>
